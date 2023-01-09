@@ -1,7 +1,14 @@
 # Elite-101-PreWork
 
-## By: Shriya Sateesh
+## By: *Shriya Sateesh*
 
-Info: This repository contains my prework for the Code2College Elite 101 Class (2023)
+## Info
+This repository contains my prework for the Code2College Elite 101 Class (2023)
 
-Descripition: (Start of a) chatbox to help seat guests at restaurant, give menus, take orders, and total the price
+## Description
+(Start of a) chatbox to help seat guests at restaurant, give menus, take orders, and total the price
+
+## Usage
+Run this command to execute the application:
+
+`python Elite-101-PreWork.py`
