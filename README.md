@@ -14,5 +14,5 @@ Run this command to execute the application:
 
 `python Elite-101-PreWork.py`
 
-
-Hi. This is a change
+# Finished
+January 2023
